@@ -1,17 +1,22 @@
 .top-page {
-    background-color: black;
+    background-color:black;
+    flex-direction: column;
 }
 
 .logo {
-    margin-right: auto;
+    margin-left: 20;
     width: 84px;
     height: 84px;
+    display: flex;
 }
 
-.img {
-    height: 30px;
-    margin-right: 50px;
+ul {
+    color: black;
+    padding: 2;
+    border: red;
+
 }
+
 
 .middle-page {
     background-color: white;
