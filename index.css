@@ -4,5 +4,15 @@
 
 .logo {
     margin-right: auto;
-    
+    width: 84px;
+    height: 84px;
+}
+
+.img {
+    height: 30px;
+    margin-right: 50px;
+}
+
+.middle-page {
+    background-color: white;
 }
