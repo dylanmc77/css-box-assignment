@@ -5,9 +5,12 @@ body {
     font-family: 'roboto', arial;
 }
 
+/* navbar area */
+
 .top-page {
     flex-direction: column;
     display: flex;
+    background-color: black;
 }
 
 .navbar {
@@ -25,10 +28,32 @@ body {
 
 ul {
     color: black;
+    background-color: white;
     display: flex;
 
 }
 
+/* hero */
+
+.main-header {
+    margin-right: auto;
+    color: white;
+    flex-direction: column;
+    border: 3px;
+    border-color: red;
+}
+
+.header-p {
+    padding: 5px 20px 20px 50px;
+}
+
+
+
+
+
+
+
+/* content */
 
 .middle-page {
     background-color: white;
