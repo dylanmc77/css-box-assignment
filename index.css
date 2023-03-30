@@ -40,14 +40,26 @@ ul {
     align-items: center;
     justify-content: center;
     padding: 90px;
-    color: white;
-    
-    
+    color: white;  
+}
+
+.main-header-1 {
+    flex-basis: 400px;
+    text-align: left;
+    display: flex;
+    margin-right: 50px;
+    flex-direction: column;
+}
+
+.main-header p {
     
 }
 
-h1 {
+.headerimage {
+    height: 450px;
+    width: 450px;
     display: flex;
+    margin-bottom: 20px;
 }
 
 
