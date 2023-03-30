@@ -94,9 +94,17 @@ h3 {
 /* quote */
 
 .quote {
+    flex-direction: column;
+    margin: 200px;
     text-align: center;
     font-size: 36px;
     color: #1f2937;
+}
+
+.credit {
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 
