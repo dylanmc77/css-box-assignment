@@ -36,15 +36,18 @@ ul {
 /* hero */
 
 .main-header {
-    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
     color: white;
-    flex-direction: column;
-    border: 3px;
-    border-color: red;
+    
+    
+    
 }
 
-.header-p {
-    padding: 5px 20px 20px 50px;
+h1 {
+    display: flex;
 }
 
 
