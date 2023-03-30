@@ -79,6 +79,7 @@ h3 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    flex-basis:content:
 }
 
 img {
