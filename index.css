@@ -128,10 +128,8 @@ h4 {
     color: white;
     border-radius: 10px;
     margin: 150px;
-}
-
-.bottom-box p {
-    padding: 2px; 
+    margin-left: 200px;
+    margin-right: 200px;
 }
  
 .box-button {
