@@ -51,15 +51,10 @@ ul {
     margin-right: 100px;
 }
 
-.main-header 
-    p {
-    
-}
-
 .main-header-1 
     button {
         display: block;
-        margin: 10px 120px 0px 120px;
+        align-items: left;
     }
 
 .headerimage {
@@ -135,7 +130,6 @@ h4 {
 .box-button {
      border-color: black;
      border-radius: 10px;
-     color: #3882f6;
      padding: 1px;
     }
 
