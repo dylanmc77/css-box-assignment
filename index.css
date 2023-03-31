@@ -106,30 +106,35 @@ h3 {
     font-weight: bold;
     font-size: 20px;
 }
-h4 {
-    font-size: 30px;
-    margin: 1px;
-
-}
 
 /* sign up box */
 
+h4 {
+    font-size: 30px;
+    margin: 1px;
+    padding: 2px;
+
+}
+
 .bottom-box {
-    background-color: #3882f6;
-    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
     display: block;
     margin: 300px;
 }
 
 .bottom-box p {
-    padding: 5px; 
+    padding: 2px; 
 }
  
 .box-button {
      border-color: black;
-     border-radius: 5px;
+     border-radius: 10px;
      color: #3882f6;
     }
+
+    /* footer */
 
 .footer {
     text-align: center;
