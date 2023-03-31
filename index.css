@@ -95,7 +95,7 @@ h3 {
 
 .quote {
     flex-direction: column;
-    margin: 200px;
+    margin: 100px;
     text-align: center;
     font-size: 36px;
     color: #1f2937;
@@ -120,8 +120,7 @@ h4 {
     background-color: black;
     color: white;
     border-radius: 10px;
-    display: block;
-    margin: 300px;
+    margin: 150px;
 }
 
 .bottom-box p {
@@ -132,6 +131,7 @@ h4 {
      border-color: black;
      border-radius: 10px;
      color: #3882f6;
+     padding: 1px;
     }
 
     /* footer */
